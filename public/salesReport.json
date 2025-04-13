@@ -1,0 +1,93 @@
+[
+    {
+      "sale_id": "SR1001",
+      "client_name": "Alpha Tech",
+      "plan": "Starter Plan",
+      "amount": 99,
+      "currency": "USD",
+      "date": "2025-04-01",
+      "team_member": "John Doe"
+    },
+    {
+      "sale_id": "SR1002",
+      "client_name": "Beta Innovations",
+      "plan": "Professional Plan",
+      "amount": 199,
+      "currency": "USD",
+      "date": "2025-04-03",
+      "team_member": "Sara Khan"
+    },
+    {
+      "sale_id": "SR1003",
+      "client_name": "Global Solutions Ltd.",
+      "plan": "Enterprise Plan",
+      "amount": 750,
+      "currency": "USD",
+      "date": "2025-04-05",
+      "team_member": "Ali Rahman"
+    },
+    {
+      "sale_id": "SR1004",
+      "client_name": "NextGen Ventures",
+      "plan": "Starter Plan",
+      "amount": 99,
+      "currency": "USD",
+      "date": "2025-04-08",
+      "team_member": "John Doe"
+    },
+    {
+      "sale_id": "SR1005",
+      "client_name": "Innovista Agency",
+      "plan": "Professional Plan",
+      "amount": 199,
+      "currency": "USD",
+      "date": "2025-04-10",
+      "team_member": "Sara Khan"
+    },
+    {
+      "sale_id": "SR1006",
+      "client_name": "Skyline Corp",
+      "plan": "Enterprise Plan",
+      "amount": 850,
+      "currency": "USD",
+      "date": "2025-04-11",
+      "team_member": "Ali Rahman"
+    },
+    {
+      "sale_id": "SR1007",
+      "client_name": "BrightPath",
+      "plan": "Starter Plan",
+      "amount": 99,
+      "currency": "USD",
+      "date": "2025-04-13",
+      "team_member": "John Doe"
+    },
+    {
+      "sale_id": "SR1008",
+      "client_name": "TechWave Ltd.",
+      "plan": "Professional Plan",
+      "amount": 199,
+      "currency": "USD",
+      "date": "2025-04-14",
+      "team_member": "Sara Khan"
+    },
+    {
+      "sale_id": "SR1009",
+      "client_name": "Nova Enterprises",
+      "plan": "Enterprise Plan",
+      "amount": 780,
+      "currency": "USD",
+      "date": "2025-04-15",
+      "team_member": "Ali Rahman"
+    },
+    {
+      "sale_id": "SR1010",
+      "client_name": "EcoStart",
+      "plan": "Starter Plan",
+      "amount": 99,
+      "currency": "USD",
+      "date": "2025-04-16",
+      "team_member": "John Doe"
+    }
+  ]
+  
