@@ -1,0 +1,43 @@
+[
+  {
+    "id": "basic_plan",
+    "title": "Starter Plan",
+    "price": "$99/month",
+    "description": "Perfect for small teams or startups beginning their digital journey. Includes essential services to get you up and running.",
+    "features": [
+      "Up to 30 hours of virtual assistance",
+      "Basic data entry & lead generation",
+      "Email and chat support"
+    ],
+    "popular": false
+  },
+  {
+    "id": "pro_plan",
+    "title": "Professional Plan",
+    "price": "$199/month",
+    "description": "Designed for growing businesses who need more advanced support and reliability with a dedicated project manager.",
+    "features": [
+      "Up to 60 hours of service",
+      "Advanced data management & research",
+      "Client communication handling",
+      "2 dedicated team members",
+      "Bi-weekly strategy calls"
+    ],
+    "popular": true
+  },
+  {
+    "id": "enterprise_plan",
+    "title": "Enterprise Plan",
+    "price": "Custom Pricing",
+    "description": "Tailored for agencies and enterprises with high-volume demands and the need for fully managed support teams.",
+    "features": [
+      "Unlimited hours & task execution",
+      "Full-service team (4+ members)",
+      "Custom workflows & integrations",
+      "Dedicated project manager",
+      "24/7 support availability",
+      "Monthly performance analytics & KPIs"
+    ],
+    "popular": false
+  }
+]
